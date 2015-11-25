@@ -2,7 +2,7 @@
 
 ## GamePlay v3.0.0
 
-GamePlay is an open-source, cross-platform native C++ game framework for creating 2D/3D mobile and desktop games.
+GamePlay is an open-source, cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
 
 - [Website](http://www.gameplay3d.io/)
 - [Wiki](https://github.com/gameplay3d/GamePlay/wiki)
@@ -11,10 +11,10 @@ GamePlay is an open-source, cross-platform native C++ game framework for creatin
 - [Community Group](https://groups.google.com/d/forum/gameplay3d-developers)
 
 ## Supported Platforms
-- [Windows](https://github.com/gameplay3d/GamePlay/wiki/Visual-Studio-Setup) 
-- [Linux](https://github.com/gameplay3d/GamePlay/wiki/CMake Setup - Linux)
-- [MacOSX](https://github.com/gameplay3d/GamePlay/wiki/Apple-Xcode-Setup)
-- [iOS](https://github.com/gameplay3d/GamePlay/wiki/Apple-Xcode-Setup)
+- [Windows](https://github.com/gameplay3d/GamePlay/wiki/Visual-Studio-Setup)
+- [MacOSX](https://github.com/gameplay3d/GamePlay/wiki/Xcode-Setup)
+- [Linux](https://github.com/gameplay3d/GamePlay/wiki/CMake-Linux-Setup)
+- [iOS](https://github.com/gameplay3d/GamePlay/wiki/Xcode-Setup)
 - [Android](https://github.com/gameplay3d/GamePlay/wiki/Android-NDK-Setup)
 
 ## Roadmap for 'next' branch
